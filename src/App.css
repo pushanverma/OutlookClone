@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+.navi 
+{
+  color:black !important;
+}
+.contentwala
+{
+  padding-left: 80px;
+  display: inline-block;
+}
+.headerbody
+{
+  height: 70vh;
+  border: 2px solid whitesmoke;
+  /* background-color: whitesmoke; */
+}
+
+.headertitle
+{
+  margin-top: 12%;
+  margin-left: 27.5%;
+  color: #007bff;
+  font-weight: bold;
+}
+.fnbtn
+{
+  border-radius: 17px;
+  background-color:#007bff ;
+  border-style: none;
+}
+fnbtn :hover
+{
+  background-color: white;
+}

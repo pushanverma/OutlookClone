@@ -1,0 +1,40 @@
+[
+    {
+      "mId": "1",
+      "unread": true,
+      "subject": "Training Program",
+      "content": "About Microsoft Virtual Academy Microsoft Virtual Academy provides free online training by world-class experts to help you build your technical skills and advance your career. Make it your destination of choice to get started on the latest Microsoft technologies and join this vibrant community.",
+      "status":"inbox"
+    },
+    {
+      "mId": "2",
+      "unread": false,
+      "subject": "Empower your future",
+      "content": "We foster our pipeline of future leaders with 47 employee networks and 7 global employee resource groups, servicing an active community of thousands across Microsoft",
+      "status":"inbox"
+    },
+    {
+      "mId": "3",
+      "unread": false,
+      "subject": "Hello to everyone ",
+      "content": "You probably already know that Educative was built specifically to support software engineers. That's why over 1M devs already use Educative's interactive learning platform to master in-demand tech skills.",
+      "status":"inbox"
+    },
+    {
+      "mId":"4",
+      "unread": false,
+      "subject": "Careers360",
+      "content": "You probably already know that Educative was built specifically to support software engineers. That's why over 1M devs already use Educative's interactive learning platform to master in-demand tech skills.",
+      "status":"inbox"
+    },
+    {
+      "mId":"5",
+      "unread": false,
+      "subject": "Google",
+      "content": "Hello software engineers. That's why over 1M devs already use Educative's interactive learning platform to master in-demand tech skills.",
+      "status":"inbox"
+    }
+  ]
+
+
+
